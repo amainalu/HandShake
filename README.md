@@ -2,7 +2,7 @@
 A Full Stack Network Application that help startups and developers to find the perfect match. Companies can find the desire profile and developers the perfect company to work with in order to built the technology required.
 
 **[- Link to website -](https://handshakeironhack.herokuapp.com/)**
-link to the website - 
+
 
 ### What is HandShake?
 
